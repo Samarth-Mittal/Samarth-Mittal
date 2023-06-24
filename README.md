@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samarth-Mittal&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Samarth-Mittal/Samarth-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
